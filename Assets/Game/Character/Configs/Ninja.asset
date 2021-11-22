@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e743d13586d6a824a96cb3eadfffdbe1, type: 3}
+  m_Name: Ninja
+  m_EditorClassIdentifier: 
+  objectId: 10
+  playerViual: {fileID: 6878815868295807773, guid: 9220d3e666a1bf44db01a02447a81c3d,
+    type: 3}
+  playerName: "\u0412\u043B\u0430\u0434 \u0427\u0435\u0440\u0435\u043F\u0430\u0448\u043A\u0430"
+  playerCost: 325
+  isBuyed: 0
