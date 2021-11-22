@@ -145,7 +145,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 18
+  m_fontSize: 28.75
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -538,7 +538,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 23.8
+  m_fontSize: 37.55
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -631,13 +631,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6599e3f13e3de03479a182be5cb7b857, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  selector: {fileID: 4968067824373739796}
-  charactersList: {fileID: 11400000, guid: c59f71e87096f1a4eae1a668931ba618, type: 2}
   currentCharacterIndex: 0
   selectionDragSpeed: 1
-  inputScript: {fileID: 4968067823823298421}
-  characterIdentation: {x: 2, y: 0, z: 0}
   isDrag: 1
+  characterIdentation: {x: 2, y: 0, z: 0}
+  selector: {fileID: 4968067824373739796}
+  charactersList: {fileID: 11400000, guid: 9468035269f6940ffa81171899697394, type: 2}
+  inputScript: {fileID: 4968067823823298421}
 --- !u!222 &508160876953349080
 CanvasRenderer:
   m_ObjectHideFlags: 0

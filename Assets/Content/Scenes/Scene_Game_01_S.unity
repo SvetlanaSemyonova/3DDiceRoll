@@ -263,7 +263,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2403611454095635593, guid: 54279f569e4bdae44a374f58e089d26a, type: 3}
       propertyPath: m_Name
-      value: soldier
+      value: Prefab_soldier_01_PF
       objectReference: {fileID: 0}
     - target: {fileID: 3031071315778760243, guid: 54279f569e4bdae44a374f58e089d26a, type: 3}
       propertyPath: m_RootOrder
@@ -544,7 +544,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2403611454095635593, guid: 54279f569e4bdae44a374f58e089d26a, type: 3}
       propertyPath: m_Name
-      value: soldier
+      value: Prefab_soldier_01_PF
       objectReference: {fileID: 0}
     - target: {fileID: 3031071315778760243, guid: 54279f569e4bdae44a374f58e089d26a, type: 3}
       propertyPath: m_RootOrder
@@ -640,6 +640,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   characterView: {fileID: 1287904422}
   betTransformRoot: {fileID: 325465352}
+  player3DVisual: {fileID: 1525279851}
   gameBetViews:
   - {fileID: 4338760483898792222, guid: c27027051bb6bbe419c03bda0a1826af, type: 3}
   - {fileID: 4874515107262555798, guid: f309aba8db3d0694fa4221e4ad13efb6, type: 3}
@@ -647,15 +648,15 @@ MonoBehaviour:
   - {fileID: 1451959875323138769, guid: 7036e4c84a84f30428a4e64e0db56d2a, type: 3}
   spawnChipsScatter: 0.05
   chipsRelativeCoefficient: 50
+  tripleNumber: 0
+  setPointNumber: 0
+  currencyAmount: 0
   IsBot: 1
   currentCombo:
     firstDiceResult: 0
     secondDiceResult: 0
     thirdDiceResult: 0
   currentRoundBet: 0
-  tripleNumber: 0
-  setPointNumber: 0
-  player3DVisual: {fileID: 1525279851}
 --- !u!4 &977285480
 Transform:
   m_ObjectHideFlags: 0
@@ -719,6 +720,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   characterView: {fileID: 1287904421}
   betTransformRoot: {fileID: 1437663701}
+  player3DVisual: {fileID: 1525279851}
   gameBetViews:
   - {fileID: 4338760483898792222, guid: c27027051bb6bbe419c03bda0a1826af, type: 3}
   - {fileID: 4874515107262555798, guid: f309aba8db3d0694fa4221e4ad13efb6, type: 3}
@@ -726,15 +728,15 @@ MonoBehaviour:
   - {fileID: 1451959875323138769, guid: 7036e4c84a84f30428a4e64e0db56d2a, type: 3}
   spawnChipsScatter: 0.05
   chipsRelativeCoefficient: 50
+  tripleNumber: 0
+  setPointNumber: 0
+  currencyAmount: 0
   IsBot: 1
   currentCombo:
     firstDiceResult: 0
     secondDiceResult: 0
     thirdDiceResult: 0
   currentRoundBet: 0
-  tripleNumber: 0
-  setPointNumber: 0
-  player3DVisual: {fileID: 1525279851}
 --- !u!1001 &1087162208
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -863,6 +865,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   characterView: {fileID: 1287904420}
   betTransformRoot: {fileID: 484074701}
+  player3DVisual: {fileID: 1525279851}
   gameBetViews:
   - {fileID: 4338760483898792222, guid: c27027051bb6bbe419c03bda0a1826af, type: 3}
   - {fileID: 4874515107262555798, guid: f309aba8db3d0694fa4221e4ad13efb6, type: 3}
@@ -870,15 +873,15 @@ MonoBehaviour:
   - {fileID: 1451959875323138769, guid: 7036e4c84a84f30428a4e64e0db56d2a, type: 3}
   spawnChipsScatter: 0.05
   chipsRelativeCoefficient: 50
+  tripleNumber: 0
+  setPointNumber: 0
+  currencyAmount: 0
   IsBot: 1
   currentCombo:
     firstDiceResult: 0
     secondDiceResult: 0
     thirdDiceResult: 0
   currentRoundBet: 0
-  tripleNumber: 0
-  setPointNumber: 0
-  player3DVisual: {fileID: 1525279851}
 --- !u!1 &1234308998
 GameObject:
   m_ObjectHideFlags: 0
@@ -1700,7 +1703,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2403611454095635593, guid: 54279f569e4bdae44a374f58e089d26a, type: 3}
       propertyPath: m_Name
-      value: soldier
+      value: Prefab_soldier_01_PF
       objectReference: {fileID: 0}
     - target: {fileID: 3031071315778760243, guid: 54279f569e4bdae44a374f58e089d26a, type: 3}
       propertyPath: m_RootOrder
@@ -1796,6 +1799,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   characterView: {fileID: 1287904419}
   betTransformRoot: {fileID: 1573969949}
+  player3DVisual: {fileID: 1525279851}
   gameBetViews:
   - {fileID: 4338760483898792222, guid: c27027051bb6bbe419c03bda0a1826af, type: 3}
   - {fileID: 4874515107262555798, guid: f309aba8db3d0694fa4221e4ad13efb6, type: 3}
@@ -1803,15 +1807,15 @@ MonoBehaviour:
   - {fileID: 1451959875323138769, guid: 7036e4c84a84f30428a4e64e0db56d2a, type: 3}
   spawnChipsScatter: 0.05
   chipsRelativeCoefficient: 50
+  tripleNumber: 0
+  setPointNumber: 0
+  currencyAmount: 0
   IsBot: 0
   currentCombo:
     firstDiceResult: 0
     secondDiceResult: 0
     thirdDiceResult: 0
   currentRoundBet: 0
-  tripleNumber: 0
-  setPointNumber: 0
-  player3DVisual: {fileID: 1525279851}
   betModel: {fileID: 1287904423}
   awaitingUserActionTime: 30
 --- !u!4 &1871469725
